@@ -1,0 +1,6 @@
+{
+  "name": "3D Circular Dot Motion Graphics",
+  "description": "Multiplayer 3D Ludo game featuring a full casino coin & stakes system, 5-minute Points & Quick Ludo match modes, 15% rake calculation, 1x wagering turnover validation, and a streamlined mobile-first HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
